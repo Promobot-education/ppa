@@ -1,0 +1,52 @@
+Package: promobot-edu-control
+Version: 1.4.0
+Architecture: amd64
+Maintainer: PROMOBOT, LLC <info@promo-bot.ru>
+Installed-Size: 21172
+Depends: ros-kinetic-gazebo-ros-control, ros-kinetic-ros-control-boilerplate, ros-kinetic-rqt-joint-trajectory-controller, ros-kinetic-joint-trajectory-controller, ros-kinetic-joint-state-controller, ros-kinetic-rosbridge-server, ros-kinetic-tf2-web-republisher, apache2, libcrypto++-dev, setserial
+Provides: promobot-edu-control
+Filename: ./promobot-edu-control_1.4.0_amd64.deb
+Size: 3298966
+MD5sum: ccb3328edcd01448716fce72a9301243
+SHA1: 8e026863b37d9ab652ae5b3d0329081b84b01f42
+SHA256: 8b01d7b7f302bce47ebdd67a513e40ef107bad3abe9fb3075906b98e995a00f3
+Section: libs
+Priority: optional
+Homepage: https://github.com/Promobot-education
+Description: Education packet with promobot arm simulation
+Standards-Version: 1.4.0
+
+Package: promobot-rrstudio
+Version: 1.0.2
+Architecture: amd64
+Maintainer: PROMOBOT LLC <info@promo-bot.ru>
+Installed-Size: 209775
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libappindicator3-1, libsecret-1-0
+Filename: ./promobot-rrstudio_1.0.2_amd64.deb
+Size: 63752228
+MD5sum: d4aadbcfb1a490893faff4f25b407442
+SHA1: a3873e378dee2693379ee73ba596c829efadfe95
+SHA256: 887ca1b027f282d1b991234decd3334f811463f77b479d2e6a71bbf70e51900a
+Section: default
+Priority: extra
+Homepage: https://github.com/Promobot-education/
+License: unknown
+Vendor: PROMOBOT LLC <info@promo-bot.ru>
+
+Package: promobot-test-devices
+Version: 1.4.0
+Architecture: amd64
+Maintainer: PROMOBOT, LLC <info@promo-bot.ru>
+Installed-Size: 180248
+Provides: promobot-test-devices
+Filename: ./promobot-test-devices_1.4.0_amd64.deb
+Size: 44768606
+MD5sum: 80b22e9ce0be2406089a30a088dfe43e
+SHA1: 65187d66b1cc2fcc3c20d4e1ea1601371e5925b0
+SHA256: 4edacfca54e2887eaeadd19d10cf2efd2e4fea231116c54c24b53b1b0f495de8
+Section: libs
+Priority: optional
+Homepage: https://github.com/Promobot-education
+Description: Application for test Promobot Robox and Promobot Rooky
+Standards-Version: 1.4.0
+
