@@ -17,18 +17,18 @@ Description: Education packet with promobot arm simulation
 Standards-Version: 1.4.0
 
 Package: promobot-rrstudio
-Version: 1.0.2
+Version: 1.4.0
 Architecture: amd64
 Maintainer: PROMOBOT LLC <info@promo-bot.ru>
-Installed-Size: 209775
+Installed-Size: 210318
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libappindicator3-1, libsecret-1-0
-Filename: ./promobot-rrstudio_1.0.2_amd64.deb
-Size: 63752228
-MD5sum: d4aadbcfb1a490893faff4f25b407442
-SHA1: a3873e378dee2693379ee73ba596c829efadfe95
-SHA256: 887ca1b027f282d1b991234decd3334f811463f77b479d2e6a71bbf70e51900a
+Filename: ./promobot-rrstudio_1.4.0_amd64.deb
+Size: 61232274
+MD5sum: bf0edf845f2c7711ec2d69650c81ed6b
+SHA1: d7ee6f51b8a111ff9d2c266e7378e3eeb1ff8352
+SHA256: b46cb4882a8c37a84f30f4e963190cdf33f6b12e7fb6622849781ac981fa408d
 Section: default
-Priority: extra
+Priority: optional
 Homepage: https://github.com/Promobot-education/
 License: unknown
 Vendor: PROMOBOT LLC <info@promo-bot.ru>
