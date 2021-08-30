@@ -34,19 +34,19 @@ License: unknown
 Vendor: PROMOBOT LLC <info@promo-bot.ru>
 
 Package: promobot-test-devices
-Version: 1.4.0
+Version: 1.4.1
 Architecture: amd64
 Maintainer: PROMOBOT, LLC <info@promo-bot.ru>
 Installed-Size: 180248
 Provides: promobot-test-devices
-Filename: ./promobot-test-devices_1.4.0_amd64.deb
-Size: 44768606
-MD5sum: 80b22e9ce0be2406089a30a088dfe43e
-SHA1: 65187d66b1cc2fcc3c20d4e1ea1601371e5925b0
-SHA256: 4edacfca54e2887eaeadd19d10cf2efd2e4fea231116c54c24b53b1b0f495de8
+Filename: ./promobot-test-devices_1.4.1_amd64.deb
+Size: 44766618
+MD5sum: 3a29d7b61f5ead2561c659ab6dd79f1c
+SHA1: 45ed8b49572d84c8c8e6fd0778c6550120de4ec1
+SHA256: 77f84931c21635eec0898a28bec641f6a0e5d69638b728b67c73c86955724220
 Section: libs
 Priority: optional
 Homepage: https://github.com/Promobot-education
 Description: Application for test Promobot Robox and Promobot Rooky
-Standards-Version: 1.4.0
+Standards-Version: 1.4.1
 

@@ -1,3 +1,3 @@
 Latest version "promobot-edu-control": 1.4.0
-Latest version "promobot-test-devices": 1.4.0
+Latest version "promobot-test-devices": 1.4.1
 Latest version "promobot-rrstudio": 1.4.0
