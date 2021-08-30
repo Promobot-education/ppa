@@ -1,20 +1,20 @@
 Package: promobot-edu-control
-Version: 1.4.0
+Version: 1.4.1
 Architecture: amd64
 Maintainer: PROMOBOT, LLC <info@promo-bot.ru>
-Installed-Size: 21172
+Installed-Size: 21136
 Depends: ros-kinetic-gazebo-ros-control, ros-kinetic-ros-control-boilerplate, ros-kinetic-rqt-joint-trajectory-controller, ros-kinetic-joint-trajectory-controller, ros-kinetic-joint-state-controller, ros-kinetic-rosbridge-server, ros-kinetic-tf2-web-republisher, apache2, libcrypto++-dev, setserial
 Provides: promobot-edu-control
-Filename: ./promobot-edu-control_1.4.0_amd64.deb
-Size: 3298966
-MD5sum: ccb3328edcd01448716fce72a9301243
-SHA1: 8e026863b37d9ab652ae5b3d0329081b84b01f42
-SHA256: 8b01d7b7f302bce47ebdd67a513e40ef107bad3abe9fb3075906b98e995a00f3
+Filename: ./promobot-edu-control_1.4.1_amd64.deb
+Size: 3303972
+MD5sum: 7e62efb3e0f540d1ae058f4b2f01fbea
+SHA1: 4e41f069333524451a3d1219d9253d0a911c1104
+SHA256: 4cb0f0b730afdafc413db996dedbd22caa04b072c0b0fb81e65f9ef0b9cdd576
 Section: libs
 Priority: optional
 Homepage: https://github.com/Promobot-education
 Description: Education packet with promobot arm simulation
-Standards-Version: 1.4.0
+Standards-Version: 1.4.1
 
 Package: promobot-rrstudio
 Version: 1.4.0
