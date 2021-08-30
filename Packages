@@ -17,19 +17,21 @@ Description: Education packet with promobot arm simulation
 Standards-Version: 1.4.1
 
 Package: promobot-rrstudio
-Version: 1.4.0
+Version: 1.5.0
 Architecture: amd64
 Maintainer: PROMOBOT LLC <info@promo-bot.ru>
-Installed-Size: 210318
+Installed-Size: 210325
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libappindicator3-1, libsecret-1-0
-Filename: ./promobot-rrstudio_1.4.0_amd64.deb
-Size: 61232274
-MD5sum: bf0edf845f2c7711ec2d69650c81ed6b
-SHA1: d7ee6f51b8a111ff9d2c266e7378e3eeb1ff8352
-SHA256: b46cb4882a8c37a84f30f4e963190cdf33f6b12e7fb6622849781ac981fa408d
+Filename: ./promobot-rrstudio_1.5.0_amd64.deb
+Size: 61235124
+MD5sum: 2fc5db6ccf0bd0aa6089d49651c901b2
+SHA1: 8359257a7a2e21d2e31e3448da77e51732375564
+SHA256: 2cf4a07820b5aa18e469126a3ece7260c3e5b93472dcb66d2fb4459d6f20d8c4
 Section: default
 Priority: optional
 Homepage: https://github.com/Promobot-education/
+Description:
+  RR Studio application is intended to create algorithms via Blockly for manipulation Promobot Rooky and Promobot Robox.
 License: unknown
 Vendor: PROMOBOT LLC <info@promo-bot.ru>
 
